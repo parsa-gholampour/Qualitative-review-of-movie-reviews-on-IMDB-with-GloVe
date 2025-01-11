@@ -66,7 +66,4 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-
-For questions or feedback, please contact [Your Name](mailto:your-email@example.com).
 
