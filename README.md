@@ -36,6 +36,7 @@ To run the notebook, the following libraries are required:
 ## Dataset
 
 The IMDB movie reviews dataset is used for sentiment analysis. It is a binary classification dataset with positive and negative reviews.
+This is the link of the dataset used: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## Embeddings
 
