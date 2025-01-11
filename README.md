@@ -25,17 +25,6 @@ To run the notebook, the following libraries are required:
 - nltk
 - kagglehub
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Open the Jupyter Notebook:
