@@ -37,8 +37,6 @@ To run the notebook, the following libraries are required:
 
 The IMDB movie reviews dataset is used for sentiment analysis. It is a binary classification dataset with positive and negative reviews.
 
-The dataset is automatically downloaded using the `kagglehub` package. Ensure you have appropriate access to Kaggle datasets before running the notebook.
-
 ## Embeddings
 
 Pre-trained GloVe embeddings are used for representing textual data in a dense vector format. Download the embeddings file and place it in the specified directory before running the corresponding notebook cell.
